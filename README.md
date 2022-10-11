@@ -24,7 +24,7 @@
   <a href="https://github.com/garronej/vigilant-funicular-fantastic">Documentation</a>
 </p>
 
-# Install / Import
+# Install / Import !
 
 ```bash
 $ npm install --save vigilant-funicular-fantastic
